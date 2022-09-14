@@ -1,0 +1,51 @@
+﻿id_cliente;nombres;apellidos;fechas_nacimiento;direccion;num_telefonico;correo
+1001;Daniel;Mendez Vargas;1997-06-19;Av.Los Jazmines,Calle 10;995765125;Daniel1520@gmail.com
+1002;Carlos;Valera Torres;1976-06-20;Av.Los Rosales,Calle 11;995765128;Carlos2674@Hotmail.com
+1003;Nataly;Retamozo Gonzales;1980-05-21;Av.Mariano Melgar,Etapa 1;995765131;Nataly1520@gmail.com
+1004;Beatriz;Macedo Hernandez;1982-07-22;Av. República de Panamá                                  ;995765134;Beatriz2674@Hotmail.com
+1005;Armando;Diaz Vela;1995-06-23;Av. Los Claveles Nº 5025;995765137;Armando1520@gmail.com
+1006;Patricia;Chirinos Vega;1990-10-24;Av. Nicolás de Piérola Nº 8;995765140;Patricia2674@Hotmail.com
+1007;Danna;Barrantes Muñoz;1985-01-25;Av. Carlos Izaguirre  Nº 220 ;995765143;Danna1520@gmail.com
+1008;Jimena;"Rojas Pérez	";1993-04-26;Av. Quilca ,Calle 11 ;995765146;Jimena2674@Hotmail.com
+1009;Luis;Soto Silva;1974-06-27;Av. Túpac Amarú  Nº 3685            ;995765149;Luis1520@gmail.com
+1010;Alberto;Martínez Contreras;1992-06-28;Av. Nicolás Arriola Nº 2400 ;995765152;Alberto2674@Hotmail.com
+1011;Mario;Sepúlveda Morales;1989-01-29;Av. Lima, Nº 3100 ;995765155;Mario1520@gmail.com
+1012;Silvia;Rodríguez Lopez;1970-06-30;Av. Mariano Cornejo Nº 16;995765158;Silvia2674@Hotmail.com
+1013;Amy;Fuentes Flores;1988-07-01;Av. Canadá Nº 298;995765161;Amy1520@gmail.com
+1014;Luisa;Valenzuela Tapia;2000-08-02;Av. Manco Cápac Nº 06;995765164;Luisa2674@Hotmail.com
+1015;Rogelio;Araya Torres;1991-02-03;Av. Elmer Faucett  Nº 73;995765167;Rogelio1520@gmail.com
+1016;Martina;Castillo Vargas;1998-09-04;Av. Los Héroes Nº 118;995765170;Martina2674@Hotmail.com
+1017;Clara;Reyes Guiterres;1997-03-05;Av. Argentina Nº 798;995765173;Clara1520@gmail.com
+1018;Bertha;Espina Pizarro;1982-07-06;Av. Las Flores ,Etapa 20;995765176;Bertha2674@Hotmail.com
+1019;Leonardo;Sanchez Fernandez;1979-10-07;Av. Salaverry Nº 930;995765179;Leonardo1520@gmail.com
+1020;Veronica;Ramirez Castro;1980-12-08;AV. La Marina  Nº 1305;995765182;Veronica2674@Hotmail.com
+1021;Victor;Gomez Cortés;1997-07-09;Av. Caminos del Inca,Calle 28;995765185;Victor1520@gmail.com
+1022;Pablo;Herrera Nuñez;1980-08-10;AV. José  Carlos Mariátegui ,Etapa 1;995765188;Pablo2674@Hotmail.com
+1023;Jean Carlos;Jara Benites;1976-12-11;Av. Los frutales Nº  994 ;995765191;JeanCarlos1520@gmail.com
+1024;Catalina;Rivera Vergara;1999-03-12;Av. Malecón Checa  Nº 25;995765194;Catalina2674@Hotmail.com
+1025;Dominic;Figueroa Riquel;1993-06-13; Av. General José de la Mar N° 2382 ;995765197;Dominic1520@gmail.com
+1026;Gissela;Garcia Miranda;1977-09-14;Av. Gerardo Unger, Calle 48;995765200;Gissela2674@Hotmail.com
+1027;Maria;Bravo Campos;1981-11-15;Av. Sánchez Cerro  ,Mz. 252;995765203;Maria1520@gmail.com
+1028;Margarita;Sandoval Bravo;1975-07-16;Av. Tomás Valle Nº 1205;995765206;Margarita2674@Hotmail.com
+1029;Mia;Orellana Cardenas;1996-06-17;Av. Lima Nº 2100 ;995765209;Mia1520@gmail.com
+1030;Eduardo;Olivares Alarcón;1988-07-18;Av. Simón Bolívar Nº 105  ;995765212;Eduardo2674@Hotmail.com
+1031;Karin;Gallardo Ortiz;1995-01-19;Av. El Triunfo Nº 210                            ;995765215;Karin1520@gmail.com
+1032;Felipe;Salazar Guzmán;1979-05-20;Jr. Abtao Nº 1007;995765218;Felipe2674@Hotmail.com
+1033;Luciana;Humala Henriquez;1986-09-21;Av. Arica Nº 1085                      ;995765221;Luciana1520@gmail.com
+1034;Alfredo;Saavedra Medina;1992-11-22;AV. Elmer Faucett Nº 320;995765224;Alfredo2674@Hotmail.com
+1035;Indira;Navarro Aguilera;1980-10-23;Urb.Las Colinas,Calle 70;995765227;Indira1520@gmail.com
+1036;Dora;Parra Romero;1987-05-24;Urb. Los Jardines de San Juan ,Etapa 08;995765230;Dora2674@Hotmail.com
+1037;Alessia;Aravena Valera;2000-09-25;Av. Micaela Bastidas ,Calle 8 ;995765233;Alessia1520@gmail.com
+1038;Joaquin;Vazques Escobar;1985-07-26;Av. Nicolás Dueñas Nº 308;995765236;Joaquin2674@Hotmail.com
+1039;Matias;Quispe Ruiz;1988-07-27;Av. Elmer Faucett N° 417 ;995765239;Matias1520@gmail.com
+1040;Melany;Yañez Caceres;1997-07-28;Av. Los Héroes Nº 1109;995765242;Melany2674@Hotmail.com
+1041;Elena;Escobar Vidal;1997-07-29;Av. Universitaria Norte  Nº 57;995765245;Elena1520@gmail.com
+1042;Edwin;Salinas Zuñiga;1997-07-30;Av. San Luis 707;995765248;Edwin2674@Hotmail.com
+1043;Yakelyn;Peña Godoy;1997-07-31;Av. Iquitos Nº 1100 ;995765251;Yakelyn1520@gmail.com
+1044;Ignacio;Lagos Manrique;1986-05-25;Av. Nicolás Dueñas Nº 606 ;995765254;Ignacio2674@Hotmail.com
+1045;Brenda;Maldonado Bustos;1997-08-02;Av. Angélica Gamarra de León Velarde 1361;995765257;Brenda1520@gmail.com
+1046;Brandon;Pino Palma;1997-08-03;Urb. Las Praderas de Lurín,Calle 04;995765260;Brandon2674@Hotmail.com
+1047;Guillermo;Moreno Carvajal;1995-08-04;Urb. Próceres de la independencia 2555 ;995765263;Guillermo1520@gmail.com
+1048;Julio;Navarrete Bustamante;1984-12-05;Av. El Sol Urb. La Campiña;995765266;Julio2674@Hotmail.com
+1049;Tommy;Toro Ortega;1976-11-06;Jr. Chinchaysuyo 710;995765269;Tommy1520@gmail.com
+1050;Ana;Guerrero Figueroa;2001-08-07;Urb. Santa Catalina,Calle 15;995765272;Ana2674@Hotmail.com
