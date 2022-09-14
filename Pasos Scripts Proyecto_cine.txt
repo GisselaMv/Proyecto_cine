@@ -1,0 +1,41 @@
+Para la creación de la base de datos del cine "Cineplanet" se debe compilar en orden los siguientes 
+archivos:
+LINKS:
+https://drive.google.com/drive/folders/12VADgbIRvgzX4k33kxBd-OJMkTHFi7Gm?usp=sharing
+https://github.com/GisselaMv/Proyecto_cine
+-------------------------------------------------------
+1.-Creación de esquema y tablas:
+En este archivo se crea el esquema llamada proyecto_cine
+y las tablas correspondiente.
+Abrir archivo:'schema y tabla_manrique.sql'
+2.-Data insertion:
+Contiene el Script de insertar los datos de las tablas y
+dos tablas que son distribuidora y cliente se insertan por importación en formato csv. 
+Abrir archivo:'Insercion_Manrique.sql'
+Importar los archivos de formato csv:
+*'clientes.csv'
+*'distribuidora.csv'
+Se adjunta tambien  documentos clientes.xlsx y distribuidora.xlsx en caso ocurra alguna dificultad.
+3.-Views:
+Contiene las 5 vsitas elaboradas.
+Abrir archivo:'Vistas_Manrique.sql'
+4.-Functions:
+Contiene 2 funciones para la DB cine.
+Abrir archivo:'Funciones_Manrique.sql'
+5-Stored Procedures:
+Contiene 2 procesos almacenados para la DB cine.
+Abrir archivo:'Stored_Manrique.sql'
+6-Triggers+tablas Log:
+Contiene 2 disperadores para las tablas cliente y pelicula.
+Abrir archivo:'Triggers_Manrique.sql'
+7.-Sublenguaje DCL:
+Carpeta que contiene la creación de usuarios.
+Abrir archivo:'Sentencias_Manrique.sql'
+8.-Sublenguaje TCL:
+Contiene las transacciones de 2 tablas.
+Abrir archivo:'TCL_Manrique.sql'
+9.-Data Import:
+Backup de la DB completo del schema "proyecto_cine".
+Abrir archivo:'Backup_Manrique.sql'
+10.-Reporte:
+Datos obtenidos del cine realizado en Power BI.
